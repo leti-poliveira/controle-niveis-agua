@@ -46,7 +46,7 @@ O programa não utiliza fórmulas matemáticas. A cor da mensagem é definida de
    pip install colorama
    ```
 
-3. Abra o arquivo `Leticia_Ag11_DSI.py` no VS Code.
+3. Abra o arquivo `leticiaPaulaDeOliveira_Ag10_DSI` no VS Code.
 4. Execute o programa no terminal.
 
 ## 📚 Conteúdos praticados
